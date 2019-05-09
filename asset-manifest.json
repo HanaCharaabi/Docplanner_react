@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/REACT-DOCPLANNER-CLONE.git/static/css/main.99f51b6d.chunk.css",
+    "main.js": "/REACT-DOCPLANNER-CLONE.git/static/js/main.b83fa3b8.chunk.js",
+    "main.js.map": "/REACT-DOCPLANNER-CLONE.git/static/js/main.b83fa3b8.chunk.js.map",
+    "runtime~main.js": "/REACT-DOCPLANNER-CLONE.git/static/js/runtime~main.f8251149.js",
+    "runtime~main.js.map": "/REACT-DOCPLANNER-CLONE.git/static/js/runtime~main.f8251149.js.map",
+    "static/js/2.809ee080.chunk.js": "/REACT-DOCPLANNER-CLONE.git/static/js/2.809ee080.chunk.js",
+    "static/js/2.809ee080.chunk.js.map": "/REACT-DOCPLANNER-CLONE.git/static/js/2.809ee080.chunk.js.map",
+    "index.html": "/REACT-DOCPLANNER-CLONE.git/index.html",
+    "precache-manifest.324697b59a78eb7a1d7f9c53eeeb2cd6.js": "/REACT-DOCPLANNER-CLONE.git/precache-manifest.324697b59a78eb7a1d7f9c53eeeb2cd6.js",
+    "service-worker.js": "/REACT-DOCPLANNER-CLONE.git/service-worker.js",
+    "static/css/main.99f51b6d.chunk.css.map": "/REACT-DOCPLANNER-CLONE.git/static/css/main.99f51b6d.chunk.css.map",
+    "static/media/Barcelona.png": "/REACT-DOCPLANNER-CLONE.git/static/media/Barcelona.30fef32f.png",
+    "static/media/Curitiba.png": "/REACT-DOCPLANNER-CLONE.git/static/media/Curitiba.2ab726ec.png",
+    "static/media/Istanbul.png": "/REACT-DOCPLANNER-CLONE.git/static/media/Istanbul.a772a418.png",
+    "static/media/Mexico City.png": "/REACT-DOCPLANNER-CLONE.git/static/media/Mexico City.c92e8f58.png",
+    "static/media/Rome.png": "/REACT-DOCPLANNER-CLONE.git/static/media/Rome.16430b36.png",
+    "static/media/Warsaw.png": "/REACT-DOCPLANNER-CLONE.git/static/media/Warsaw.4a92ae16.png",
+    "static/media/section4.css": "/REACT-DOCPLANNER-CLONE.git/static/media/background.edb44798.jpg",
+    "static/media/logo-default-group-en.svg": "/REACT-DOCPLANNER-CLONE.git/static/media/logo-default-group-en.8e5b345f.svg",
+    "static/media/screen-marketplace.png": "/REACT-DOCPLANNER-CLONE.git/static/media/screen-marketplace.82d323de.png",
+    "static/media/screen-saas.png": "/REACT-DOCPLANNER-CLONE.git/static/media/screen-saas.120076c7.png"
+  }
+}
